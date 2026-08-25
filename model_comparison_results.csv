@@ -1,0 +1,4 @@
+model,test_rmse,test_mae,test_r2,cv_rmse_mean,cv_rmse_std
+Linear Regression,1.942,1.564,0.753,1.834,0.055
+Random Forest,1.944,1.572,0.752,1.881,0.052
+Decision Tree,1.949,1.57,0.751,1.921,0.078
